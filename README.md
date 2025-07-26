@@ -1,4 +1,4 @@
-# 🏴‍☠️Agentics Repo Repo (ar^2)
+# 🏴‍☠️Agentics Repo of Repos (ar^2)
 
 The idea is for a repo of repos containing projects created within the Agentics Foundation community. The hope is that this will foster increased collaboration and highlight potential opportunities.
 
