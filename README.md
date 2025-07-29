@@ -8,4 +8,4 @@ The idea is for a repo of repos containing projects created within the Agentics 
 - Automated analysis of projects identifies potential synergies/similarities, integration or re-use potential.
 
 ## Relationships
-[Community-curated extension marketplace for Claude-flow #469](https://github.com/cgbarlow/arr/issues/1)
+[Community-curated extension marketplace for Claude-flow: ruvnet/claude-flow#469](https://github.com/cgbarlow/arr/issues/1)
